@@ -1,0 +1,6 @@
+*.o
+.DS_store
+//.gitignore
+game_2048
+*.swp
+*.gch
